@@ -11,5 +11,5 @@
 
 ## 其他
 - [源码](http://github.com/javacpro/blog/)
-- [修订历史](https://github.com/javacpro/blog/commits/gh-pages)
+- [修订历史](https://github.com/javacpro/blog/commits/master)
 - [反馈意见](https://github.com/javacpro/blog/issues)
